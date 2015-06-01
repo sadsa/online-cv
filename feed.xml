@@ -6,8 +6,8 @@
 </description>
     <link>http://joshbiddick.me/</link>
     <atom:link href="http://joshbiddick.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jun 2015 17:48:05 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2015 17:48:05 +0100</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2015 20:11:07 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 20:11:07 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -146,7 +146,7 @@ Cucumber Digital&lt;/strong&gt;&lt;/p&gt;
 
 &lt;form action=&quot;https://getsimpleform.com/messages?form_api_token=434f73e1c5591fe5e5b5d7a1116f3307&quot; method=&quot;post&quot;&gt;
   &lt;!-- the redirect_to is optional, the form will redirect to the referrer on submission --&gt;
-  &lt;input type=&quot;hidden&quot; name=&quot;redirect_to&quot; value=&quot;http://cucumber.co.nz/&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;redirect_to&quot; value=&quot;http://sadsa.github.io/&quot; /&gt;
   &lt;!-- all your input fields here.... --&gt;
 	&lt;div class=&quot;row uniform&quot;&gt;
 		&lt;div class=&quot;6u 12u(xsmall)&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;Name&quot; /&gt;&lt;/div&gt;
