@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh Biddick</title>
+    <description>Front-end Developer, martial artist and choice kiwi bloke.
+</description>
+    <link>http://joshbiddick.me/</link>
+    <atom:link href="http://joshbiddick.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Jun 2015 17:48:05 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 17:48:05 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;header class=&quot;major&quot;&gt;
+  &lt;h2&gt;Hi, I&#39;m Josh&lt;/h2&gt;
+  &lt;p&gt;A Designer and Front-end Web Developer&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;&lt;a class=&quot;button alt icon fa-check&quot; href=&quot;#contact&quot; target=&quot;_self&quot;&gt;Available for work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m an advocate for architecture up-front and building components that are &lt;strong&gt;modular&lt;/strong&gt;, &lt;strong&gt;robust&lt;/strong&gt; and follow industry &lt;strong&gt;best practice&lt;/strong&gt;. I believe in communicating closely with the creative team and take pride in delivering &lt;strong&gt;successful products&lt;/strong&gt; that meet customer requirements.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Cucumber would happily re-employ Josh as we consider him
+to be a valuable member of the team who developed many 
+close relationships, delivered to expectations and
+consistently strived to improve.” &lt;strong&gt;- Carol Machaj at 
+Cucumber Digital&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am keen to work with fun and passionate people, learn new skills and introduce efficiencies to the development phase. By reducing complexity and cutting out repetitive tasks, we can spend more time developing awesome products and &lt;strong&gt;have fun doing it!&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 May 2015 00:00:00 +0100</pubDate>
+        <link>http://joshbiddick.me/2015/05/10/introduction.html</link>
+        <guid isPermaLink="true">http://joshbiddick.me/2015/05/10/introduction.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Skills</title>
+        <description>&lt;header&gt;
+	&lt;h3&gt;Things I can do&lt;/h3&gt;
+	&lt;p&gt;
+		A collection of languages, tools, frameworks and methodologies attained over the years.
+	&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;ul class=&quot;feature-icons&quot;&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;HTML5 and CSS3&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Javascript and Jquery&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Sass/Less and Stylus&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Adobe Photoshop and Fireworks&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Bootstrap and Inuitcss Frameworks&lt;/li&gt;	
+	&lt;li class=&quot;fa-code&quot;&gt;Mobile and Responsive Web Design&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Node.js&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;KnockoutJS and Angular&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Kentico/Umbraco CMS platforms&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Team Foundation Server&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Git source control&lt;/li&gt;
+	&lt;li class=&quot;fa-code&quot;&gt;Agile software development&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 +0100</pubDate>
+        <link>http://joshbiddick.me/2015/05/09/skills.html</link>
+        <guid isPermaLink="true">http://joshbiddick.me/2015/05/09/skills.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Experience</title>
+        <description>&lt;header class=&quot;major&quot;&gt;
+	&lt;h3&gt;Experience&lt;/h3&gt;
+	&lt;p&gt;
+		The companies that helped fuel my passion for the web
+	&lt;/p&gt;
+&lt;/header&gt;
+&lt;header&gt;
+	&lt;span style=&quot;float: right&quot;&gt;2013 - 2015&lt;/span&gt;
+	&lt;h4&gt;Cucumber Software&lt;/h4&gt;
+	&lt;p&gt;
+		&lt;a href=&quot;www.cucumber.co.nz&quot; target=&quot;_blank&quot;&gt;www.cucumber.co.nz&lt;/a&gt;
+	&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;The past two years have been a blast. Working with a passionate team to create quality products that delivered real benefit to enterprise-level customers such as &lt;strong&gt;Trustpower&lt;/strong&gt;, &lt;strong&gt;Bayleys Real Estate&lt;/strong&gt; and &lt;strong&gt;Bayer Crop Science&lt;/strong&gt;. In recent times, Cucumber adopted an Agile approach to project management, making a positive impact to customer and team satisfaction.&lt;/p&gt;
+
+&lt;h4 id=&quot;achievements&quot;&gt;Achievements&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introduced an automated front-end workflow using SASS, Node and GruntJS&lt;/li&gt;
+  &lt;li&gt;Implemented a self-documenting style guide and component library to improve understanding between back and front end development teams.&lt;/li&gt;
+  &lt;li&gt;Reduced page load time on the www.bluelab.com website by 70%.&lt;/li&gt;
+  &lt;li&gt;Working within an agile lead team, we built a staff appraisal system for Kidicorp, the leader in early childhood education in NZ with over 250 centres.&lt;/li&gt;
+  &lt;li&gt;Regularly involved in internal innovation and startup business events&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;header&gt;
+	&lt;span style=&quot;float: right&quot;&gt;2008 - 2013&lt;/span&gt;
+	&lt;h4&gt;Zeanz Cloud Solutions&lt;/h4&gt;
+	&lt;p&gt;
+		&lt;a href=&quot;www.zeanz.com&quot; target=&quot;_blank&quot;&gt;www.zeanz.com&lt;/a&gt;
+	&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;New to the industry, I was motivated to show my passion for multimedia and design, quickly learning the ropes in a high pressure environment. Working in a small team, I was responsible for designing and building websites for hundreds of automotive dealers. Additionally, I built components for the company’s own CRM and Dealer Management System products and was regularly involved in the requirements gathering process.&lt;/p&gt;
+
+&lt;h4 id=&quot;achievements-1&quot;&gt;Achievements&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Promoted to Lead Web Designer in 2012&lt;/li&gt;
+  &lt;li&gt;Lead the design for an internal re-brand, delivering concept designs, promotional material and a new identity that reflected the company’s change in direction.&lt;/li&gt;
+  &lt;li&gt;Created a range of branded templates for Motor Trade Finance. Streamlining the build and deployment process to deliver MTF websites to around 400 car dealers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;header&gt;
+	&lt;span style=&quot;float: right&quot;&gt;2006 - 2008&lt;/span&gt;
+	&lt;h4&gt;Diploma of Information Technology&lt;/h4&gt;
+	&lt;p&gt;Bay of Plenty Polytechnic&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;During my final years in college, I committed all of my spare time to developing 2D animations and aspired towards a career in media design. Not long after, I decided to study IT until I could submit my portfolio. I quickly discovered study was a full-time commitment and focussed my energy into my new passion, programming.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 May 2015 00:00:00 +0100</pubDate>
+        <link>http://joshbiddick.me/2015/05/08/experience.html</link>
+        <guid isPermaLink="true">http://joshbiddick.me/2015/05/08/experience.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Get in touch</title>
+        <description>&lt;header&gt;
+	&lt;h3&gt;Hire Me&lt;/h3&gt;
+	&lt;p&gt;
+		I&#39;d love to hear from you!
+	&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;Whether you’re extending an existing product or need resource for an upcoming project, I’d love to hear from you. I’m currently open to new experiences and working with exciting new people. So feel free to get in touch and we can work something out.&lt;/p&gt;
+
+&lt;form action=&quot;https://getsimpleform.com/messages?form_api_token=434f73e1c5591fe5e5b5d7a1116f3307&quot; method=&quot;post&quot;&gt;
+  &lt;!-- the redirect_to is optional, the form will redirect to the referrer on submission --&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;redirect_to&quot; value=&quot;http://cucumber.co.nz/&quot; /&gt;
+  &lt;!-- all your input fields here.... --&gt;
+	&lt;div class=&quot;row uniform&quot;&gt;
+		&lt;div class=&quot;6u 12u(xsmall)&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;Name&quot; /&gt;&lt;/div&gt;
+		&lt;div class=&quot;6u 12u(xsmall)&quot;&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;Email&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;row uniform&quot;&gt;
+		&lt;div class=&quot;12u&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;subject&quot; id=&quot;subject&quot; placeholder=&quot;Subject&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;row uniform&quot;&gt;
+		&lt;div class=&quot;12u&quot;&gt;&lt;textarea name=&quot;message&quot; id=&quot;message&quot; placeholder=&quot;Message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;row uniform&quot;&gt;
+		&lt;div class=&quot;12u&quot;&gt;
+			&lt;ul class=&quot;actions&quot;&gt;
+				&lt;li&gt;&lt;input type=&quot;submit&quot; class=&quot;special&quot; value=&quot;Send Message&quot; /&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;input type=&quot;reset&quot; value=&quot;Reset Form&quot; /&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+</description>
+        <pubDate>Thu, 07 May 2015 00:00:00 +0100</pubDate>
+        <link>http://joshbiddick.me/2015/05/07/contact.html</link>
+        <guid isPermaLink="true">http://joshbiddick.me/2015/05/07/contact.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
