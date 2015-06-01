@@ -6,8 +6,8 @@
 </description>
     <link>http://joshbiddick.me/</link>
     <atom:link href="http://joshbiddick.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jun 2015 21:12:09 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2015 21:12:09 +0100</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2015 21:19:09 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 21:19:09 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -95,7 +95,7 @@ Cucumber Digital&lt;/strong&gt;&lt;/p&gt;
   &lt;li&gt;Introduced an automated front-end workflow using SASS, Node and GruntJS&lt;/li&gt;
   &lt;li&gt;Implemented a self-documenting style guide and component library to improve understanding between back and front end development teams.&lt;/li&gt;
   &lt;li&gt;Reduced page load time on the www.bluelab.com website by 70%.&lt;/li&gt;
-  &lt;li&gt;Working within an agile lead team, we built a staff appraisal system for Kidicorp, the leader in early childhood education in NZ with over 250 centres.&lt;/li&gt;
+  &lt;li&gt;Helped build a Staff Appraisal System for &lt;strong&gt;&lt;a href=&quot;http://www.kidicorp.co.nz&quot; target=&quot;_blank&quot;&gt;Kidicorp&lt;/a&gt;&lt;/strong&gt;, New Zealand’s leader in early childhood education, with over 250 centres.&lt;/li&gt;
   &lt;li&gt;Regularly involved in internal innovation and startup business events&lt;/li&gt;
 &lt;/ul&gt;
 
