@@ -6,8 +6,8 @@
 </description>
     <link>http://joshbiddick.me/</link>
     <atom:link href="http://joshbiddick.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jun 2015 21:22:09 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2015 21:22:09 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2015 20:59:51 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2015 20:59:51 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,7 +17,11 @@
   &lt;p&gt;A Designer and Front-end Web Developer&lt;/p&gt;
 &lt;/header&gt;
 
-&lt;p&gt;&lt;a class=&quot;button alt icon fa-check&quot; href=&quot;#contact&quot; target=&quot;_self&quot;&gt;Available for work&lt;/a&gt;&lt;/p&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+	&lt;li&gt;
+		&lt;a class=&quot;button alt icon fa-check&quot; href=&quot;#contact&quot; target=&quot;_self&quot;&gt;Available for work&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;I’m an advocate for architecture up-front and building components that are &lt;strong&gt;modular&lt;/strong&gt;, &lt;strong&gt;robust&lt;/strong&gt; and follow industry &lt;strong&gt;best practice&lt;/strong&gt;. I believe in communicating closely with the creative team and take pride in delivering &lt;strong&gt;successful products&lt;/strong&gt; that meet customer requirements.&lt;/p&gt;
 
@@ -94,7 +98,7 @@ Cucumber Digital&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Introduced an automated front-end workflow using SASS, Node and GruntJS&lt;/li&gt;
   &lt;li&gt;Implemented a self-documenting style guide and component library to improve understanding between back and front end development teams.&lt;/li&gt;
-  &lt;li&gt;Reduced page load time on the www.bluelab.com website by 70%.&lt;/li&gt;
+  &lt;li&gt;Reduced page load time on the &lt;a href=&quot;http://www.bluelab.com&quot; target=&quot;_blank&quot;&gt;www.bluelab.com&lt;/a&gt; website by 70%.&lt;/li&gt;
   &lt;li&gt;Helped build a Staff Appraisal System for &lt;strong&gt;&lt;a href=&quot;http://www.kidicorp.co.nz&quot; target=&quot;_blank&quot;&gt;Kidicorp&lt;/a&gt;&lt;/strong&gt;, New Zealand’s leader in early childhood education, with over 250 centres.&lt;/li&gt;
   &lt;li&gt;Regularly involved in internal innovation and startup business events&lt;/li&gt;
 &lt;/ul&gt;
